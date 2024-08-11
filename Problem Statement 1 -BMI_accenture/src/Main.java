@@ -122,7 +122,7 @@ Total amount of food required for all rats = r * unit
 
 The amount of food in 1st houses = 2+8+3+5 = 18. Since, amount of food in 1st 4 houses is sufficient for all the rats. Thus, output is 4.
 
-
+*/
 
 
 // Import the java.util package for using arrays and other utility classes
@@ -196,7 +196,7 @@ public class Main {
 
 
 
-*/
+
 
 
 
